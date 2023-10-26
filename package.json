@@ -2,7 +2,7 @@
   "name": "web-server-app",
   "version": "1.0.0",
   "description": "A simple web server app for web322 course",
-  "main": "index.js",
+  "main": "node app.js",
   "scripts": {
     "test": "\"\""
   },
