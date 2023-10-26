@@ -1,0 +1,17 @@
+# Ignore node_modules directory
+/node_modules
+
+# Ignore any log files
+*.log
+
+# Ignore editor and OS-specific files
+.DS_Store
+.vscode
+.idea
+.project
+.settings
+Thumbs.db
+.suo
+.user
+.history
+Desktop.ini

@@ -1,0 +1,22 @@
+{
+  "name": "web-server-app",
+  "version": "1.0.0",
+  "description": "A simple web server app for web322 course",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvaghela2/web-server-app.git"
+  },
+  "author": "divyarajsinh vaghela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvaghela2/web-server-app/issues"
+  },
+  "homepage": "https://github.com/dvaghela2/web-server-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
